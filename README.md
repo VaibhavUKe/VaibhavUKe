@@ -53,11 +53,3 @@
 |---|---|
 | [**SpamGate**](https://github.com/VaibhavUKe/SpamGate) | Native Android call-blocking app built on `CallScreeningService`, exploring inter-app communication and system-level call interception |
 | [**360View**](https://github.com/VaibhavUKe/360View) | Native Android 360° panorama viewer built with OpenGL ES 2.0 |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <em>📍 Pune, India</em>
-</p>
